@@ -22,12 +22,6 @@
   margin-bottom: 1rem;
 }
 
-.title a:hover,
-.title a:focus,
-.title a:active {
-  text-decoration: underline;
-}
-
 .title {
   margin: 0.5rem 0 1rem 0;
   line-height: 1.15;
@@ -59,8 +53,9 @@
 .card:hover,
 .card:focus,
 .card:active {
-  color: #0070f3;
-  border-color: #0070f3;
+  color: #eaeaea;
+  border-color: #eaeaea;
+  background-color: #cc003342;
 }
 
 .card h3 {
